@@ -13,3 +13,5 @@ start "Ping OPENDNS 208.67.222.222" ping 208.67.222.222 -t <br>
 start "Ping OPENDNS 208.67.220.220" ping 208.67.220.220 -t <br>
 start "Ping INTERNASIONAL" ping amazon.com -t <br>
 start "Ping LOCAL INDONESIA" ping detik.com -t
+
+<img border="0" src="https://1.bp.blogspot.com/-8NFYavvgpJg/XaCpEk7yelI/AAAAAAAAAfw/ldzH1QjoTac7_fU6nsoY7EbhePWmOWmnQCLcBGAsYHQ/s1600/multiping.jpg" />
