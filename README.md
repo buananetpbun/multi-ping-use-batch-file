@@ -15,3 +15,5 @@ start "Ping INTERNASIONAL" ping amazon.com -t <br>
 start "Ping LOCAL INDONESIA" ping detik.com -t
 
 <img border="0" src="https://1.bp.blogspot.com/-8NFYavvgpJg/XaCpEk7yelI/AAAAAAAAAfw/ldzH1QjoTac7_fU6nsoY7EbhePWmOWmnQCLcBGAsYHQ/s1600/multiping.jpg" />
+
+<img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
