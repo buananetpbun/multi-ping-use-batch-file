@@ -1,5 +1,4 @@
-# multi-ping-use-batch-file
-how to many ping use batch file
+# Multi Ping Use Batch File
 
 Buka tutup cmd cuman buat nge-ping kadang menyebalkan, apalagi sering dilakukan. kalo mau gak repot bisa di buat multi ping pake batch file, cara ini jauh lebih mudah dari pada harus ngetik satu2 :D
 
