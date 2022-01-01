@@ -1,4 +1,4 @@
-# Multi Ping Use Batch File
+## Multi Ping Use Batch File
 
 Buka tutup cmd cuman buat nge-ping kadang menyebalkan, apalagi sering dilakukan. kalo mau gak repot bisa di buat multi ping pake batch file, cara ini jauh lebih mudah dari pada harus ngetik satu2 :D
 
@@ -15,4 +15,6 @@ start "Ping LOCAL INDONESIA" ping detik.com -t
 
 ![image](https://user-images.githubusercontent.com/42666125/111258737-24552e80-8650-11eb-975f-91ee6912ee66.png)
 
-<img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+## <b>License</b><br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
